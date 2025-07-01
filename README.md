@@ -7,7 +7,13 @@ project with readily available data.
 The dataset typically used for this project contains information
 about individual passengers, such as their age, gender, ticket
 class, fare, cabin, and whether or not they survived.
-🚢 Titanic Survival Prediction - CodeSoft Task 1
+
+
+
+
+#=============================================================================
+
+### 🚢 Titanic Survival Prediction - CodeSoft Task 1
 This project is a comprehensive end-to-end machine learning pipeline developed to predict passenger survival on the Titanic using classical ML models. It was built as part of the CodeSoft Internship Task 1.
 
 🔍 Overview
